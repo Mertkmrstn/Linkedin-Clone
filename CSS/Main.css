@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav{
+    height: 90px;
+    overflow: hidden;
+}
+
+form{
+    height: 60px;
+}
+
+.icons-bar a{
+    color: #000;
+}
+
+.icons-bar i{
+    opacity: 0.6;
+}
+
+.icons-bar i:active{
+    opacity: 1;
+}
+
+.icons .opacity a i{
+    opacity: 1;
+}
+
+ .card .card-head img{
+    position: relative;
+}
+
+.card .card-head span img {
+    width: 75px;
+    height: 75px;
+     position: absolute;
+    left: 115px;
+    top: 20px; 
+} 
+
+.card-mid h6{
+    opacity: 0.6;
+}
+
+.card-body .fs-6{
+    opacity: 0.6;
+    letter-spacing: 1px;
+}
+
+.card-body {
+    opacity: 0.6;
+}
