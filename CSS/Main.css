@@ -9,7 +9,7 @@ nav{
     overflow: hidden;
 }
 
-form{
+.d-flex form {
     height: 60px;
 }
 
@@ -52,4 +52,20 @@ form{
 
 .card-body {
     opacity: 0.6;
+}
+
+.card .card-up{
+    opacity: 0.6;
+}
+
+.card-down-images p{
+    opacity: 0.6;
+}
+
+.card-footere a{
+    opacity: 0.6;
+}
+
+.card-footere a:hover{
+    opacity: 1;
 }
