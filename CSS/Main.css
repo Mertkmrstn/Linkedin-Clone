@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+body{
+    background-color: #fcfaf7;
+}
+
 nav{
     height: 90px;
     overflow: hidden;
@@ -68,4 +72,28 @@ nav{
 
 .card-footere a:hover{
     opacity: 1;
+}
+
+.card-alt .smalle{
+    opacity: 0.6;
+}
+
+.width{
+    width: 400px;
+}
+
+.header-images .header-info p{
+    opacity: 0.6;
+}
+
+.post i{
+    opacity: 0.6;
+}
+
+.icons-info h6{
+    opacity: 0.6;
+}
+
+.top {
+    opacity: 0.6;
 }
